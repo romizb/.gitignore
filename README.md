@@ -1,4 +1,4 @@
 # .gitignore
-bin/ipynd_checkpoints
-bin/.virtual_documents
-bin/__pycache__
+ipynd_checkpoints/
+.virtual_documents/
+__pycache__/
